@@ -11,7 +11,7 @@ Analyze data to find insights to help Louise (client) decide the best month(s) t
 1) Created a pivot table and line graph to analyze by month the theater campaigns that were successful, failed and canceled
     a) Filters Years (All) and Parent Category (Theater). 'Theater is a focus for our client'
     b) Outcomes as columns and Value Counts for successful, failed and canceled by month. 'Understanding the number of campaigns by month of each outcome with a graph to visualize trends'
-    ![Alt text](C:/Users/jqu23/OneDrive/Desktop/Boot Camp/Excel Challenge/Resources/Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
+    ![Alt text](https://github.com/Jimena-QM/KickStarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
 
 
 ### Analysis of Outcomes Based on Goals
@@ -21,12 +21,12 @@ Analyze data to find insights to help Louise (client) decide the best month(s) t
      - Column R is the subcategory "plays" that had to be fixed throughout the different ranges and outcomes. 
      - Column D is the goal amount that also had to be fixed and depending on the range being counted we had to add quotes. 
      - B$1 is the different outcomes being analyzed, I had it fixed on row 1 to be able to use it for the other outcomes. 
-    ![Alt text](C:/Users/jqu23/OneDrive/Desktop/Boot Camp/Excel Challenge/Resources/Countifs_outcome_reference.png "Countifs_Outcome_Reference")
+    ![Alt text](https://github.com/Jimena-QM/KickStarter_Challenge/blob/main/Countifs_outcome_reference.png "Countifs_Outcome_Reference")
 
 2. Used sum to get the total projects who were successful, failed or canceled for plays. =Sum(Number Successful, Numer Failed, Number Canceled)
 3. The percentage of each outcome being analyzed with a simple division. =Number X / Total Projects. The percentage per row had to add to 100%. 
 4. Generated a line graph to visually see the range of goals that are must succesfull within plays. 
-![Alt text](C:/Users/jqu23/OneDrive/Desktop/Boot Camp/Excel Challenge/Resources/Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
+![Alt text](https://github.com/Jimena-QM/KickStarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
 ### Challenges and Difficulties Encountered
 1. Did not encounter any challenges in the Analysis of Outcomes Based on Launch Date. Some challenges that could be encountered:
    - How to set months with the Data Created Columns
